@@ -1,0 +1,27 @@
+{
+  "name": "ortBot",
+  "version": "0.0.1",
+  "description": "made by Orient",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "update": "git pull && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orient",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fetch-timeout": "0.0.2",
+    "libsodium-wrappers": "^0.7.4",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^2.0.5",
+    "opusscript": "0.0.6",
+    "uws": "^100.0.1",
+    "ytdl-core": "^0.29.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

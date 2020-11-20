@@ -1,0 +1,3 @@
+{"URL_SERVER":"http://ip:port","LOG_LEVEL":"2","BOT_TOKEN":"token","CHANNEL_ID":"761338135195025418","MESSAGE_ID":"761338135195025418","SUGGESTION_CHANNEL":"766250463841746994","BUG_CHANNEL":"766250463841746994","BUG_LOG_CHANNEL":"766250463841746994","LOG_CHANNEL":"766250463841746994"}
+
+/// url_server kısmına ip port yazın, bot_token e tokeninizi yazın, diğerlerini ellemeyin diğer fonksiyonlar bir sonraki güncellemede aktif olacaktır. ///
