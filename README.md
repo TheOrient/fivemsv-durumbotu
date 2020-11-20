@@ -11,7 +11,7 @@ cmd yi kapatın
 
 config.json açın oradaki yorum satırlarına göre ayarlarınızı yapın.
 
-bot.js yi açın orada yorum satırıyla belirtilen yerleri kendinize göre düzenleyin.
+bot.js yi açın orada yorum satırıyla belirtilen yerleri kendinize göre düzenleyin. (Yorum satırı ile mesaj komutları belirtilen yerde kendinize mesaj komutu yazabilirsiniz, sa as iyi geceler günaydın .aktif .durum .restart gibi komutlar bulunmaktadır.)
 
 Ardından ortbaslat.bat çalıştırın.(Kendim özel yazdığım .bat bota 20 saate bir restart atmaktadır.)
 
